@@ -114,3 +114,38 @@ The exploratory analysis was performed to understand player characteristics, for
 #### Bowling Performance Correlation
 
 ![Bowling Performance Correlation](visuals/bowling_metrics_correlation.png)
+
+## Key Insights
+
+- Player representation varies considerably across countries, with some countries having much higher representation than others. Country-level comparisons should therefore consider differences in sample size.
+
+- Player participation differs across formats, with ODI and T20 having broader representation in the dataset than Test and IPL.
+
+- Batting performance distributions vary across formats, reflecting differences in career length, match opportunities, and playing conditions.
+
+- Most players in the dataset are concentrated in the late 20s to early 40s, indicating a strong representation of experienced players.
+
+- Batting average and strike rate show a positive relationship across all analyzed formats, with the strongest relationship observed in IPL data.
+
+- Age and strike rate show a weak negative relationship across formats, suggesting that age alone is not a strong predictor of batting strike rate.
+
+- Player roles provide important context when evaluating performance, as batting and bowling contributions vary across different roles.
+
+- Multiple performance metrics provide a more complete view of player performance than relying on a single metric.
+
+## Recommendations
+
+Based on the analysis, player performance should be evaluated within the appropriate cricket format and playing role rather than using a single overall metric.
+
+The analysis also suggests that:
+
+- Multiple performance metrics should be considered when evaluating players.
+- Player role should be considered when interpreting batting and bowling performance.
+- Age can be used as contextual information rather than as a standalone performance indicator.
+- Country-level comparisons should account for differences in player representation.
+- Batting and bowling styles can be used to understand player profiles and performance patterns, but should not be interpreted as direct causes of performance.
+
+## Conclusion 
+The analysis identified meaningful patterns in player performance across formats, roles, countries, age, and playing styles.
+
+The findings show that player performance varies by context, and no single metric is sufficient to evaluate a player. Using multiple performance metrics with proper context provides a more comprehensive understanding of cricket player performance.
