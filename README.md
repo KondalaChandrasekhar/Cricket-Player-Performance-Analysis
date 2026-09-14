@@ -41,3 +41,72 @@ The dataset contains cricket player-level information collected from Cricbuzz.
 - **Matplotlib**
 - **Seaborn**
 - **Jupyter Notebook**
+
+## Exploratory Data Analysis
+
+The exploratory analysis was performed to understand player characteristics, format participation, and performance patterns across different cricket contexts.
+
+### 1. Player Profile & Representation
+
+- Distribution of players across countries
+- Distribution of players across playing roles
+- Distribution of player ages
+
+### 2. Format Participation
+
+- Comparison of player participation across Test, ODI, T20, and IPL formats
+- Analysis of player involvement across different cricket formats
+
+### 3. Batting Performance
+
+- Distribution of runs across different formats
+- Relationship between batting average and strike rate
+- Relationship between age and strike rate
+
+### 4. Bowling Performance
+- Distribution of economy across different formats
+
+### 5. Role-Based Performance
+
+- Comparison of T20 runs across different playing roles
+- Comparison of T20 wickets across different playing roles
+
+### 6. Multivariate Analysis
+
+- Relationships among multiple batting and bowling performance metrics
+- Performance patterns across batting styles and playing roles
+- Correlation analysis of bowling performance metrics
+
+### Key Visualizations
+
+#### Player Distribution by Country
+
+![Player Distribution by Country](visuals/player_distribution_by_country.png)
+
+#### Format-wise Player Participation
+
+![Format-wise Player Participation](visuals/format_player_participation.png)
+
+#### Runs Distribution Across Formats
+
+![Runs Distribution Across Formats](visuals/runs_distribution_by_format.png)
+
+#### Average vs Strike Rate
+
+![Average vs Strike Rate](visuals/average_vs_strike_rate.png)
+
+#### Age vs Strike Rate
+
+![Age vs Strike Rate](visuals/age_vs_strike_rate.png)
+
+#### Role-wise T20 Performance
+
+![Role-wise T20 Runs](visuals/role_vs_t20_runs.png)
+
+#### T20 Performance Correlation
+
+![T20 Performance Correlation](visuals/t20_performance_correlation.png)
+
+#### Bowling Performance Correlation
+
+![Bowling Performance Correlation](visuals/bowling_metrics_correlation.png)
