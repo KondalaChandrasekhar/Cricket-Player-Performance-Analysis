@@ -74,7 +74,7 @@ The exploratory analysis was performed to understand player characteristics, for
 ### 6. Multivariate Analysis
 
 - Relationships among multiple batting and bowling performance metrics
-- Performance patterns across batting styles and playing roles
+- Performance patterns across batting performance and batting styles 
 - Correlation analysis of bowling performance metrics
 
 ### Key Visualizations
@@ -106,6 +106,10 @@ The exploratory analysis was performed to understand player characteristics, for
 #### T20 Performance Correlation
 
 ![T20 Performance Correlation](visuals/t20_performance_correlation.png)
+
+#### T20 Batting Performance Correlation among Different Batting Styles
+
+![T20 Batting Performance Correlation among Different Batting Styles](visuals/batting_metrics_by_batting_style.png)
 
 #### Bowling Performance Correlation
 
