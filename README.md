@@ -14,3 +14,30 @@ Cricket performance data contains a wide range of player-level statistics across
 ## Business Objective
 
 The objective of this project is to analyze Cricbuzz player data to identify meaningful patterns in player characteristics and batting performance across different cricket formats, playing roles, and countries.
+
+## Dataset
+
+The dataset contains cricket player-level information collected from Cricbuzz.
+
+- **Records:** 532 players
+- **Attributes:** 79
+- **Formats:** Test, ODI, T20, IPL
+- **Data includes:** Player profile, country, playing role, batting style, bowling style, batting performance, and bowling performance statistics.
+
+### Key Data Categories
+
+- Player profile and demographics
+- Country and playing role
+- Batting and bowling styles
+- Format participation
+- Batting performance
+- Bowling performance
+
+## Tools & Technologies
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Jupyter Notebook**
